@@ -5,3 +5,5 @@ pandas
 seaborn
 scikit-learn
 ipykernel
+
+# pip install -r requirements.txt
